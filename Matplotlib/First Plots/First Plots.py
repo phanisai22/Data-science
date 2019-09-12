@@ -31,6 +31,8 @@ plt.grid(True)
 
 plt.tight_layout()
 
+plt.savefig("plot.png")
+
 # plt.legend(["last year", "this year"])
 
 plt.show()
